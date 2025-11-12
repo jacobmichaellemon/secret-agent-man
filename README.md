@@ -1,0 +1,1 @@
+Basic AI agent. Uses Googles AI API free tier to implement a basic chat bot similar to ChatGPT.
